@@ -1,2 +1,0 @@
-# Sell
-A definir
