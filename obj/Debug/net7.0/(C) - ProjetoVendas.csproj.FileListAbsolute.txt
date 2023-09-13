@@ -12,3 +12,10 @@ C:\_src\pasta temporaria\(C) - ProjetoVendas\(C) - ProjetoVendas\obj\Debug\net7.
 C:\_src\pasta temporaria\(C) - ProjetoVendas\(C) - ProjetoVendas\obj\Debug\net7.0\(C) - ProjetoVendas.pdb
 C:\_src\pasta temporaria\(C) - ProjetoVendas\(C) - ProjetoVendas\obj\Debug\net7.0\(C) - ProjetoVendas.genruntimeconfig.cache
 C:\_src\pasta temporaria\(C) - ProjetoVendas\(C) - ProjetoVendas\obj\Debug\net7.0\ref\(C) - ProjetoVendas.dll
+C:\kane\Sell\obj\Debug\net7.0\(C) - ProjetoVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\kane\Sell\obj\Debug\net7.0\(C) - ProjetoVendas.AssemblyInfoInputs.cache
+C:\kane\Sell\obj\Debug\net7.0\(C) - ProjetoVendas.AssemblyInfo.cs
+C:\kane\Sell\obj\Debug\net7.0\(C) - ProjetoVendas.csproj.CoreCompileInputs.cache
+C:\kane\Sell\obj\Debug\net7.0\(C) - ProjetoVendas.dll
+C:\kane\Sell\obj\Debug\net7.0\refint\(C) - ProjetoVendas.dll
+C:\kane\Sell\obj\Debug\net7.0\(C) - ProjetoVendas.pdb
