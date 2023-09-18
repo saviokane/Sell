@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\kane\\Sell\\(C) - ProjetoVendas.csproj": {}
+    "C:\\_src\\pasta temporaria\\Sell\\(C) - ProjetoVendas.csproj": {}
   },
   "projects": {
-    "C:\\kane\\Sell\\(C) - ProjetoVendas.csproj": {
+    "C:\\_src\\pasta temporaria\\Sell\\(C) - ProjetoVendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\kane\\Sell\\(C) - ProjetoVendas.csproj",
+        "projectUniqueName": "C:\\_src\\pasta temporaria\\Sell\\(C) - ProjetoVendas.csproj",
         "projectName": "(C) - ProjetoVendas",
-        "projectPath": "C:\\kane\\Sell\\(C) - ProjetoVendas.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\kane\\Sell\\obj\\",
+        "projectPath": "C:\\_src\\pasta temporaria\\Sell\\(C) - ProjetoVendas.csproj",
+        "packagesPath": "C:\\Users\\savio\\.nuget\\packages\\",
+        "outputPath": "C:\\_src\\pasta temporaria\\Sell\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\savio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -18,18 +18,25 @@ namespace _C____ProjetoVendas.View
 
             Console.WriteLine("Escolha uma opção abaixo: ");
             Console.WriteLine("[1] Cadastro");
+            Console.WriteLine("[2] Listar");
+            Console.WriteLine("[3] Deletar");
+            Console.WriteLine("[4] Alterar");
             String escolha = Console.ReadLine();
 
             switch (escolha)
             {
                 case "1":
-                    Controller.ControllerCadastro();
+                    Controller.ControllerFuncionario.Cadastro();
                     break;
                 case "2":
-                    Console.WriteLine("111");
-                    // Tela de alteração
+                    Controller.ControllerFuncionario.Listar();
                     break;
-
+                case "3":
+                    Controller.ControllerFuncionario.Demitir();
+                    break;
+                case "4":
+                    Controller.ControllerFuncionario.Alterar();
+                    break;  
             }
 
         }
