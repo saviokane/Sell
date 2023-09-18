@@ -45,11 +45,12 @@ namespace _C____ProjetoVendas.Controller
                     Console.WriteLine();
 
                 }
+            View.TelaPrincipal.Home();
         }
 
         public static void Demitir() 
         {
-            Controller.ControllerFuncionario.Listar();
+            
 
             Console.WriteLine("Qual funcionario deseja demitir ? (CPF)");
             string cpf = Console.ReadLine();
@@ -74,13 +75,14 @@ namespace _C____ProjetoVendas.Controller
 
         public static void Alterar()
         {
-            Controller.ControllerFuncionario.Listar();
+            
 
             Console.WriteLine("Qual funcionario deseja alterar ? (CPF)");
             string cpf = Console.ReadLine();
 
             foreach (var funcionario in funcionarios)
             {
+           
                 if (funcionario.Cpf == cpf)
                 {
                     Console.WriteLine("Digite seu nome: ");
@@ -99,8 +101,8 @@ namespace _C____ProjetoVendas.Controller
                     funcionario.Idade = idade;
 
                     Console.WriteLine("Dados atualizados !!!!");
-
                     View.TelaPrincipal.Home();
+
                 }
                 else
                 {
